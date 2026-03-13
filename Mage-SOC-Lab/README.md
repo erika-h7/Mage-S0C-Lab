@@ -49,6 +49,6 @@ Designed to build a fully integrated Security Operations Center (SOC) from scrat
 ## 👤 About the Author 
 I am a driven Cybersecurity Engineer with a focus on Detection Engineering, Vulnerability Management, and Systems Architecture, coupled with a strong passion for offensive security and penetration testing. 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6836795" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/infinitymage.png" alt="Your Image Badge" />
 
 > *"The way you do one thing is the way you do everything."* — Miyamoto Musashi

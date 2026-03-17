@@ -31,7 +31,7 @@ Designed to build a fully integrated Security Operations Center (SOC) from scrat
 
 ### Phase 1: Vulnerability Management & Hardening
 *Implemented credentialed scanning to establish a baseline and remediated critical misconfigurations.*
-* 📄 [Vulnerability Assessment: SMB Signing & OS End-of-Life Lifecycle](./Vulnerability_Management/)
+* 📄 [Windows 10 Vulnerability Assessment: SMB Signing & OS End-of-Life Lifecycle](./Vulnerability_Management/)
 * 📜 [Linux Hardening & Auditing Scripts](./Scripts/Linux_Hardening.sh)
 
 ### Phase 2: Log Aggregation & SIEM Deployment *(In Progress)*
